@@ -1,6 +1,10 @@
 # FonksiyonKokBulucu
 İstanbul Kent Üniversitesi Matematik ödevi için yapılmış C# ile programlanmış basit bir kök bulma yazılımı.
 
+**Ad Soyad :** Osman Yakut
+**Öğrenci Numarası :** 2507020079
+**Bölümü : ** Bilgisayar Mühendisliği
+
 ## Programın çalışma mantığı
 - "ax² + bx + c" cinsindeki bir ikinci dereceden fonksiyonun a, b ve c değerleri girildikten sonra yazılım fonksiyonu tanımlar.
 - Tanımlanan fonksiyonun diskriminantı(Δ) yazılım tarafından hesaplanır.
