@@ -1,2 +1,2 @@
-# FonksiyonK-kBulucu
-İstanbul Kent Üniversitesi Matematik ödevi için yapılmış C# ile programlanmış basit bir kök bulma yazılımı
+# FonksiyonKokBulucu
+İstanbul Kent Üniversitesi Matematik ödevi için yapılmış C# ile programlanmış basit bir kök bulma yazılımı.
