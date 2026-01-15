@@ -28,7 +28,11 @@
    <img src="FonksiyonKokBulucu/images/fonksiyon_tanımı.png" width="383" height="39" alt="Fonksiyonu Tanımlama">
 2. **Sayı girilmesi istendiğinde girilen girdinin bir sayı olup olmadığının kontrolü : **
    - Eğer sayı yerine başka bir karakter (a, x, y, !, ? vb.) girilirse hata mesajı verilmesi.
-3. 
+   <br> 
+   <img src="FonksiyonKokBulucu/images/error.png" width="434" height="36" alt="Fonksiyonu Tanımlama">
+3. **b veya c değerlerinden herhangi birinin 0 girilmesi durumunda fonksiyon tanımında görsel olarak yer almaması :**
+   
+4. 
 
 ## 📷 Programdan Ekran Görüntüleri
 ### 1. *"İki tane"* reel kök olduğu bir fonksiyon tanımlandığınında
