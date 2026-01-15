@@ -23,8 +23,12 @@
    <img src="FonksiyonKokBulucu/images/diskriminant.png" width="434" height="36" alt="Fonksiyonu Tanımlama">
 
 ## 💻 Programın Bazı ÖZellikleri :
-1. **Girilen değerlerden oluşturulan fonksiyonu konsola görsel olarak yazdırılması
-   - 
+1. **Girilen değerlerden oluşturulan fonksiyonu konsola görsel olarak yazdırılması : **
+   <br>
+   <img src="FonksiyonKokBulucu/images/fonksiyon_tanımı.png" width="383" height="39" alt="Fonksiyonu Tanımlama">
+2. **Sayı girilmesi istendiğinde girilen girdinin bir sayı olup olmadığının kontrolü : **
+   - Eğer sayı yerine başka bir karakter (a, x, y, !, ? vb.) girilirse hata mesajı verilmesi.
+3. 
 
 ## 📷 Programdan Ekran Görüntüleri
 ### 1. *"İki tane"* reel kök olduğu bir fonksiyon tanımlandığınında
