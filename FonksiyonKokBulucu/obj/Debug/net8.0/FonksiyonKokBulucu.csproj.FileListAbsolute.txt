@@ -1,0 +1,14 @@
+C:\Users\osmaa\Desktop\Matematik Ödevi\FonksiyonKokBulucu\bin\Debug\net8.0\FonksiyonKokBulucu.exe
+C:\Users\osmaa\Desktop\Matematik Ödevi\FonksiyonKokBulucu\bin\Debug\net8.0\FonksiyonKokBulucu.deps.json
+C:\Users\osmaa\Desktop\Matematik Ödevi\FonksiyonKokBulucu\bin\Debug\net8.0\FonksiyonKokBulucu.runtimeconfig.json
+C:\Users\osmaa\Desktop\Matematik Ödevi\FonksiyonKokBulucu\bin\Debug\net8.0\FonksiyonKokBulucu.dll
+C:\Users\osmaa\Desktop\Matematik Ödevi\FonksiyonKokBulucu\bin\Debug\net8.0\FonksiyonKokBulucu.pdb
+C:\Users\osmaa\Desktop\Matematik Ödevi\FonksiyonKokBulucu\obj\Debug\net8.0\FonksiyonKokBulucu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osmaa\Desktop\Matematik Ödevi\FonksiyonKokBulucu\obj\Debug\net8.0\FonksiyonKokBulucu.AssemblyInfoInputs.cache
+C:\Users\osmaa\Desktop\Matematik Ödevi\FonksiyonKokBulucu\obj\Debug\net8.0\FonksiyonKokBulucu.AssemblyInfo.cs
+C:\Users\osmaa\Desktop\Matematik Ödevi\FonksiyonKokBulucu\obj\Debug\net8.0\FonksiyonKokBulucu.csproj.CoreCompileInputs.cache
+C:\Users\osmaa\Desktop\Matematik Ödevi\FonksiyonKokBulucu\obj\Debug\net8.0\FonksiyonKokBulucu.dll
+C:\Users\osmaa\Desktop\Matematik Ödevi\FonksiyonKokBulucu\obj\Debug\net8.0\refint\FonksiyonKokBulucu.dll
+C:\Users\osmaa\Desktop\Matematik Ödevi\FonksiyonKokBulucu\obj\Debug\net8.0\FonksiyonKokBulucu.pdb
+C:\Users\osmaa\Desktop\Matematik Ödevi\FonksiyonKokBulucu\obj\Debug\net8.0\FonksiyonKokBulucu.genruntimeconfig.cache
+C:\Users\osmaa\Desktop\Matematik Ödevi\FonksiyonKokBulucu\obj\Debug\net8.0\ref\FonksiyonKokBulucu.dll

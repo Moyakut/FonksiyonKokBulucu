@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FonksiyonKokBulucu/1.0.0": {
+        "runtime": {
+          "FonksiyonKokBulucu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FonksiyonKokBulucu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
