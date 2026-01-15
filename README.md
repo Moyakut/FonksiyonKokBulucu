@@ -7,7 +7,7 @@
 - **Bölümü :** Bilgisayar Mühendisliği
 
 ## Programın çalışma mantığı
-- "ax² + bx + c" cinsindeki bir ikinci dereceden fonksiyonun a, b ve c değerleri girildikten sonra yazılım fonksiyonu tanımlar.
+- "ax² + bx + c" cinsindeki bir ikinci dereceden fonksiyonun a, b ve c değerleri girildikten sonra yazılım fonksiyonu tanımlar.  
   <img src="FonksiyonKokBulucu/images/fonksiyon_tanımı.png" width="383" height="39" alt="Fonksiyonu Tanımlama"> 
 - Tanımlanan fonksiyonun diskriminantı (Δ) yazılım tarafından hesaplanır.   
   <img src="FonksiyonKokBulucu/images/diskriminant.png" width="434" height="36" alt="Fonksiyonu Tanımlama">
