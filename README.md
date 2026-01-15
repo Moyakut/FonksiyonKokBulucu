@@ -15,3 +15,12 @@
   <img src="FonksiyonKokBulucu/images/kokleri.png" width="500" height="50" alt="Fonksiyonu Tanımlama">
 
 ## Programdan Ekran Görüntüleri
+### *"İki tane"* reel kök olduğu bir fonksiyon tanımlandığınında
+***Örn :*** x² - 5x + 6  
+<img src="FonksiyonKokBulucu/images/SS_1.png" width="1091" height="558" alt="Fonksiyonu Tanımlama">
+### Bir *"Çift Katlı"* reel kök olduğu bir fonksiyon tanımlandığınında
+***Örn :*** x² - 4x + 4  
+<img src="FonksiyonKokBulucu/images/SS_3.png" width="1091" height="558" alt="Fonksiyonu Tanımlama">
+### Reel bir *"kökü olmayan"* bir fonksiyon tanımlandığınında
+***Örn :*** x² - 5x + 6  
+<img src="FonksiyonKokBulucu/images/SS_2.png" width="1091" height="558" alt="Fonksiyonu Tanımlama">
