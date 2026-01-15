@@ -18,22 +18,22 @@
 4. **Diskriminanta Göre Kök Hesaplama**
    - **Δ > 0:** Durumunda *iki adet* reel kökü olduğu
    - **Δ = 0:** Durumunda tek bir *çift katlı* kökü olduğu
-   - **Δ < 0:** Durumunda reel bir *kökü olmadığı* belirtilir
-   <br>
-   <img src="FonksiyonKokBulucu/images/diskriminant.png" width="434" height="36" alt="Fonksiyonu Tanımlama">
+   - **Δ < 0:** Durumunda reel bir *kökü olmadığı* belirtilir  
+      <img src="FonksiyonKokBulucu/images/diskriminant.png" width="434" height="36" alt="Fonksiyonu Tanımlama">
 
-## 💻 Programın Bazı ÖZellikleri :
-1. **Girilen değerlerden oluşturulan fonksiyonu konsola görsel olarak yazdırılması : **
-   <br>
-   <img src="FonksiyonKokBulucu/images/fonksiyon_tanımı.png" width="383" height="39" alt="Fonksiyonu Tanımlama">
-2. **Sayı girilmesi istendiğinde girilen girdinin bir sayı olup olmadığının kontrolü : **
+## 💻 Programın Bazı Özellikleri :
+1. **Girilen değerlerden oluşturulan fonksiyonu konsola görsel olarak yazdırılması**
+   - Fonksiyon için girilen a, b ve c değerlerini alarak ekrana yazdırması:  
+      <img src="FonksiyonKokBulucu/images/fonksiyon_tanımı.png" width="383" height="39" alt="Fonksiyonu Tanımlama">
+2. **Sayı girilmesi istendiğinde girilen girdinin bir sayı olup olmadığının kontrolü**
    - Eğer sayı yerine başka bir karakter (a, x, y, !, ? vb.) girilirse hata mesajı verilmesi.
-   <br> 
-   <img src="FonksiyonKokBulucu/images/error.png" width="434" height="36" alt="Fonksiyonu Tanımlama">
-3. **b veya c değerlerinden herhangi birinin 0 girilmesi durumunda fonksiyon tanımında görsel olarak yer almaması :**
+      <img src="FonksiyonKokBulucu/images/error.png" width="434" alt="Fonksiyonu Tanımlama">
+3. **b veya c değerlerinden herhangi birinin 0 girilmesi durumunda fonksiyon tanımında görsel olarak yer almaması**
+   - ***'b'*** değeri 0 ise :  
+      <img src="FonksiyonKokBulucu/images/fonksiyon_b_yok.png" width="434" alt="Fonksiyonu Tanımlama">   
+   - ***'c'*** değeri 0 ise :  
+      <img src="FonksiyonKokBulucu/images/fonksiyon_c_yok.png" width="434" alt="Fonksiyonu Tanımlama">
    
-4. 
-
 ## 📷 Programdan Ekran Görüntüleri
 ### 1. *"İki tane"* reel kök olduğu bir fonksiyon tanımlandığınında
 - ***Örn :*** x² - 5x + 6  
