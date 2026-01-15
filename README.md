@@ -1,12 +1,12 @@
 # Fonksiyon Kök Bulucu
 İstanbul Kent Üniversitesi Matematik ödevi için yapılmış C# ile programlanmış, ikinci derecen fonksiyonların köklerini hesaplayan bir konsol uygulaması.
 
-## 🧑‍💻 Öğrenci Bilgileri
+## 🧑‍💻 Öğrenci Bilgileri :
 - **Ad Soyad :** Osman Yakut
 - **Öğrenci Numarası :** 2507020079
 - **Bölümü :** Bilgisayar Mühendisliği
 
-## ⚙️ Programın çalışma mantığı
+## ⚙️ Programın Çalışma Mantığı :
 1. **Fonksiyonun Tanımlanması:**
    "ax² + bx + c" formatındaki ikinci dereceden fonksiyonun a, b ve c katsayıları kullanıcıdan alınır.
     <br>
@@ -21,6 +21,10 @@
    - **Δ < 0:** Durumunda reel bir *kökü olmadığı* belirtilir
    <br>
    <img src="FonksiyonKokBulucu/images/diskriminant.png" width="434" height="36" alt="Fonksiyonu Tanımlama">
+
+## 💻 Programın Bazı ÖZellikleri :
+1. **Girilen değerlerden oluşturulan fonksiyonu konsola görsel olarak yazdırılması
+   - 
 
 ## 📷 Programdan Ekran Görüntüleri
 ### 1. *"İki tane"* reel kök olduğu bir fonksiyon tanımlandığınında
