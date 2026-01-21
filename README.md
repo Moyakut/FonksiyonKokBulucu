@@ -44,3 +44,5 @@
 ### 3. Reel bir *"kökü olmayan"* bir fonksiyon tanımlandığınında
 - ***Örn :*** 3x² + 4x + 8  
   <img src="FonksiyonKokBulucu/images/SS_2.png" width="1091" height="558" alt="Fonksiyonu Tanımlama">
+
+**Minik Not:** Yapay zekaya yaptırmışım gibi duruyor olsa da bütün şeyleri kendim yaptım. :)
